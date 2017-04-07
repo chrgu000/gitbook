@@ -1,3 +1,3 @@
 # Table of content
 
-* [First Chapter](chapter1.md)
+* [亚骋传说第一章](chapter1.md)
