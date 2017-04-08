@@ -2,9 +2,7 @@
 
 dbtype:mysql
 
-ip:123.56.19.206
-
-port:3306
+ip:123.56.19.206:3306
 
 username:alyuser
 
