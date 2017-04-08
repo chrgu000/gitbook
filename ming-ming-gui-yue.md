@@ -10,6 +10,8 @@
  例如:ss\_scy\(security缩写\)\_plan1 (安全与职业健康计划)；ss_scy_record1(交底记录)；
 ```
 
+----
+
 编码规约:每个包下面需要建出一个package-info文件,文件里注明该包的所属业务名
 
 ![](/assets/11.png)
