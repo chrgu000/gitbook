@@ -16,5 +16,11 @@
 
 需求文档下载:
 
-安全管理（5个节点）20170408: https://pan.baidu.com/s/1hrS75XE
+安全管理（5个节点）20170408:
+
+ [https://pan.baidu.com/s/1hrS75XE](https://pan.baidu.com/s/1hrS75XE)
+
+新一代630里程碑需求评审表（2017年4月第一周评审计划）: 
+
+https://pan.baidu.com/s/1ge6oUbT
 
