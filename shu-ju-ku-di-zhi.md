@@ -10,7 +10,5 @@ username:alyuser
 
 password:S+9T,7\(ebaVZG\[Zg
 
-database:
-
-
+database:icop\_smart\_site
 
