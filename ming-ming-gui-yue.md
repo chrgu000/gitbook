@@ -14,5 +14,3 @@
 
 
 
-![](/assets/import.png)
-
