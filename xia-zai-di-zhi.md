@@ -4,8 +4,6 @@
 
 [http://pan.baidu.com/s/1i5wrgZr](http://pan.baidu.com/s/1i5wrgZr)
 
-&lt;/br&gt;
-
 二.开发资料及demo
 
 [https://pan.baidu.com/s/1c1WIP2o](https://pan.baidu.com/s/1c1WIP2o)
