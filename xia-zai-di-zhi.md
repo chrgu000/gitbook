@@ -2,7 +2,7 @@
 
 maven相关
 
-setting.xml下载地址:
+setting.xml下载地址: https://pan.baidu.com/s/1nv5CUVn
 
 ---
 
