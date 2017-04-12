@@ -8,7 +8,11 @@
 
 [http://60.205.12.0:81/cas/login?sysid=icop&verify\_code=usercenter&service=http%3A%2F%2F60.205.12.0%3A81%2Ficop-workbench%2Fsso%2Flogin.jsp%3Fr%3DL2ljb3Atd29ya2JlbmNoLw](qq://txfile/#)
 
-账号&密码:zhoushebei01/a123456
+账号&密码:
+
+1.zhoushebei01/a123456
+
+2.plat03/a123456\(平台用户\)
 
 ---
 
@@ -37,4 +41,6 @@
 共享数据中心地址
 
 [http://60.205.12.0:81/icop-share-frontend/\#/](http://60.205.12.0:81/icop-share-frontend/#/)
+
+
 
