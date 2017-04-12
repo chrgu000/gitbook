@@ -28,9 +28,13 @@
 
 3.xiaojh05/a123456 \(\(管理员\)肖建华\)
 
---------------
+---
 
 共享中心地址
 
-http://60.205.12.0:81/icop-support-frontend/\#/
+[http://60.205.12.0:81/icop-support-frontend/\#/](http://60.205.12.0:81/icop-support-frontend/#/)
+
+共享数据中心
+
+http://60.205.12.0:81/icop-share-frontend/\#/
 
