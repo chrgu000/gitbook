@@ -12,6 +12,12 @@
  例如:ss\_scy\(security缩写\)\_plan1 (安全与职业健康计划)；ss_scy_record1(交底记录)；
 ```
 
+平台icop\)自定义档案名:模块名\_档案名称
+
+```
+ 例如:ss\_scy\(security缩写\)\_plan1 (安全与职业健康计划)；ss_scy_record1(交底记录)；
+```
+
 ---
 
 # 编码规约
