@@ -2,7 +2,5 @@
 
 [http://60.205.12.0:81/webui/apps/quickdev/\#/pages/design](qq://txfile/#)
 
-![](/assets/111.gif)
-
 
 
