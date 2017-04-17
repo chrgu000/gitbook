@@ -1,14 +1,18 @@
 # 数据字典
 
------------------
+---
 
-### 自定义档案
+### 自定义档案 
 
- sp\_defdoc
+库名：icop-share
 
- sp\_defdoclist
+sp\_defdoc
 
- sp\_defdoc\_extend
+sp\_defdoclist
 
-----------------------
+sp\_defdoc\_extend
+
+---
+
+
 
