@@ -14,8 +14,6 @@
 
 2.plat03/a123456\(平台用户\)
 
-3.opadmin/123qwe123\(最高权限用户\)
-
 4.adminicop/ admin123qwe\(最高权限用户\)
 
 ---
