@@ -2,9 +2,7 @@
 
 ---
 
-### 自定义档案 
-
-库名：icop-share
+### 自定义档案\(icop-share\)
 
 sp\_defdoc
 
