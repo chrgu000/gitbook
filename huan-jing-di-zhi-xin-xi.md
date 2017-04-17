@@ -16,9 +16,7 @@
 
 3.opadmin/123qwe123\(最高权限用户\)
 
-4.adminicop/ admin123qwe
-
-
+4.adminicop/ admin123qwe\(最高权限用户\)
 
 ---
 
