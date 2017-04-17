@@ -4,9 +4,9 @@
 
 ### 自定义档案\(icop-share\)
 
-sp\_defdoc
+sp\_defdoclist\(档案头\)
 
-sp\_defdoclist
+sp\_defdoc\(档案数据\)
 
 sp\_defdoc\_extend
 
