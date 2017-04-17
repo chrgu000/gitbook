@@ -16,6 +16,8 @@
 
 3.opadmin/123qwe123\(最高权限用户\)
 
+4.adminicop/ admin123qwe
+
 ---
 
 中建云正式环境\(中建三局\)
