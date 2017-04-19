@@ -34,9 +34,11 @@ setting.xml下载地址:
 
 [https://pan.baidu.com/s/1ge6oUbT](https://pan.baidu.com/s/1ge6oUbT)
 
----------------------------
+---
 
 插件下载
 
-反编译插件:https://marketplace.eclipse.org/search/site/eclipse-class-decompiler
+反编译插件:[https://marketplace.eclipse.org/search/site/eclipse-class-decompiler](https://marketplace.eclipse.org/search/site/eclipse-class-decompiler)
+
+TestNG插件:https://marketplace.eclipse.org/search/site/TestNg
 
