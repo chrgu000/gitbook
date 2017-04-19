@@ -36,9 +36,9 @@ setting.xml下载地址:
 
 ---
 
-插件下载
+eclipse插件下载
 
 反编译插件:[https://marketplace.eclipse.org/search/site/eclipse-class-decompiler](https://marketplace.eclipse.org/search/site/eclipse-class-decompiler)
 
-TestNG插件:https://marketplace.eclipse.org/search/site/TestNg
+TestNG插件:[https://marketplace.eclipse.org/search/site/TestNg](https://marketplace.eclipse.org/search/site/TestNg)
 
