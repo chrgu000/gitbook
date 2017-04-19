@@ -9,4 +9,6 @@
 * [yyjz-group-smartsite-界面设计器地址](yyjz-group-smartsitejie-mian-she-ji-qi-di-zhi.md)
 * [yyjz-icop-培训](pei-xun.md)
   * [icop-插件使用-元数据插件](pei-xun/yuan-shu-ju-cha-jian-shi-yong.md)
+  * [icop-dubboAPI](pei-xun/icop-dubboapi.md)
+    * [icop-dubboAPI-项目档案信息获取](pei-xun/icop-dubboapi/icop-dubboxiang-mu-dang-an-huo-qu.md)
 
