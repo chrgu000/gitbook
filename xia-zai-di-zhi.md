@@ -2,7 +2,7 @@
 
 maven相关
 
-setting.xml下载地址: 
+setting.xml下载地址:
 
 [https://pan.baidu.com/s/1nv5CUVn](https://pan.baidu.com/s/1nv5CUVn)
 
@@ -33,4 +33,10 @@ setting.xml下载地址:
 新一代630里程碑需求评审表（2017年4月第一周评审计划）:
 
 [https://pan.baidu.com/s/1ge6oUbT](https://pan.baidu.com/s/1ge6oUbT)
+
+---------------------------
+
+插件下载
+
+反编译插件:https://marketplace.eclipse.org/search/site/eclipse-class-decompiler
 
