@@ -8,8 +8,6 @@
 
 &lt;dubbo:referenceid="projectAPIService"interface="com.yyjz.icop.share.api.service.ProjectAPIService"url="dubbo://123.56.19.206:20885"check="false"/&gt;
 
-![](file:///C:\Users\gaoych\AppData\Local\Temp\ksohtml\wps86B2.tmp.jpg)
-
 ### **Step配置Maven依赖:**
 
 在impl层的pom.xml文件中引入共享业务中心的依赖:icop-share-api
@@ -26,15 +24,11 @@
 
 &lt;/dependency&gt;
 
-![](file:///C:\Users\gaoych\AppData\Local\Temp\ksohtml\wps86B3.tmp.jpg)
-
 ### **Step代码中引入服务:**
 
 @Autowired
 
 **private** ProjectAPIServiceprojectAPIService;
-
-![](file:///C:\Users\gaoych\AppData\Local\Temp\ksohtml\wps86C4.tmp.jpg)
 
 ### **Step代码的方法区中使用service调用API方法：**
 
@@ -80,10 +74,6 @@ back.setBackMsg\("查询项目信息失败:"+e.getMessage\(\)\);
 
 }
 
-![](file:///C:\Users\gaoych\AppData\Local\Temp\ksohtml\wps86D4.tmp.jpg)
-
-
-
 ### **API**
 
 //根据项目ID得到项目
@@ -101,6 +91,4 @@ back.setBackMsg\("查询项目信息失败:"+e.getMessage\(\)\);
 //根据所属公司id和项目状态 查询所有项目 返回这个人所属组织下的所有项目id
 
 **public** ArrayList&lt;String&gt; queryProjectId\(StringorgId,Stringprjstate\)**throws** BusinessException;
-
-
 
