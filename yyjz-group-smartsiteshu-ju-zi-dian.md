@@ -20,7 +20,7 @@ sp\_project\_category\(项目分类\)
 
 sp\_project\_realtion\(项目与项目分类关系\)
 
-------
+---
 
 ### 现场-技术\(icop-smart-site\)
 
@@ -70,21 +70,41 @@ ss\_scy\_project\_hazards\_publicity\_detail\(项目重大危险源公示明细\
 
 ss\_scy\_safety\_and\_occupational\_health\_plan\(职业安全和健康计划\)
 
-ss\_scy\_safety\_acceptance\_head\_item
+ss\_scy\_safety\_acceptance\_head\_item\(安全验收单据表头项\)
 
-------
+ss\_scy\_safety\_plan\_disclosure\(安全策划交底\)
+
+ss\_scy\_safety\_technical\_disclosure\(安全技术交底\)
+
+ss\_scy\_special\_worker\(特种作业人员管理\)
+
+ss\_tech\_ta\_five\_achievement\(五小成果\)
+
+ss\_tech\_ta\_other\_result\(其它奖项\)
+
+ss\_tech\_ta\_sci\_and\_tech\_progress\_award\(科技进步奖\)
+
+ss\_tech\_tamethod\(技术成果工法\)
+
+ss\_tech\_tapaper\(技术成果论文\)
+
+ss\_tech\_tapatent\(技术成果专利\)
+
+ss\_tech\_techsum\(技术总结\)
+
+---
 
 现场-安全
 
--------
+---
 
 现场-质量
 
---------
+---
 
 现场-进度
 
------
+---
 
 
 
