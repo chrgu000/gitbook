@@ -6,7 +6,7 @@
 
 地址:
 
-[http://dev.yonyouccs.com/cas/login?sysid=icop&verify\_code=usercenter&service=http%3A%2F%2F60.205.12.0%3A81%2Ficop-workbench%2Fsso%2Flogin.jsp%3Fr%3DL2ljb3Atd29ya2JlbmNoLw](qq://txfile/#)
+https://dev.yonyouccs.com/icop-workbench/\#home
 
 账号&密码:
 
