@@ -6,7 +6,7 @@
 
 地址:
 
-https://dev.yonyouccs.com/icop-workbench/\#home
+[https://dev.yonyouccs.com/icop-workbench/\#home](https://dev.yonyouccs.com/icop-workbench/#home)
 
 账号&密码:
 
@@ -43,4 +43,10 @@ https://dev.yonyouccs.com/icop-workbench/\#home
 共享数据中心地址
 
 [http://dev.yonyouccs.com/icop-share-frontend/\#/](http://60.205.12.0:81/icop-share-frontend/#/)
+
+----
+
+有道云笔记
+
+公共账号:smartsite1@163.com/q123123
 
