@@ -50,13 +50,15 @@
 
 公共账号:smartsite1@163.com/q123123
 
- 
-
 ---
 
 Jenkins
 
 公共账号:deploy/deploy
 
+-----
 
+maven私服
+
+http://123.103.9.205:8204/nexus/content/groups/public/
 
