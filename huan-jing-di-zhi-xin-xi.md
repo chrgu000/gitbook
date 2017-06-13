@@ -44,9 +44,19 @@
 
 [http://dev.yonyouccs.com/icop-share-frontend/\#/](http://60.205.12.0:81/icop-share-frontend/#/)
 
-----
+---
 
 有道云笔记
 
 公共账号:smartsite1@163.com/q123123
+
+ 
+
+---
+
+Jenkins
+
+公共账号:deploy/deploy
+
+
 
