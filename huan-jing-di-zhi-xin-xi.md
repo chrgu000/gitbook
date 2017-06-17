@@ -54,11 +54,13 @@
 
 Jenkins
 
+地址:http://wiki.yonyou.com/
+
 公共账号:deploy/deploy
 
------
+---
 
 maven私服
 
-http://123.103.9.205:8204/nexus/content/groups/public/
+[http://123.103.9.205:8204/nexus/content/groups/public/](http://123.103.9.205:8204/nexus/content/groups/public/)
 
