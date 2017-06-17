@@ -54,9 +54,15 @@
 
 Jenkins
 
-地址:http://wiki.yonyou.com/
+地址:https://dev.yonyouccs.com/jenkins/
 
 公共账号:deploy/deploy
+
+-----
+
+wiki
+
+地址:[http://wiki.yonyou.com/](http://wiki.yonyou.com/)
 
 ---
 
