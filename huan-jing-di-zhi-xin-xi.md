@@ -20,17 +20,15 @@
 
 地址:
 
-http://test.cscec3b.com.cn
+[http://test.cscec3b.com.cn](http://test.cscec3b.com.cn)
 
 账号&密码:
 
-1.zhoushebei01/a123456
-
-2.plat03/a123456\(平台用户\)
+1.testzhgd02/a123456
 
 4.adminicop/ admin123qwe\(最高权限用户\)
 
---------------
+---
 
 中建云正式环境\(中建三局\)
 
