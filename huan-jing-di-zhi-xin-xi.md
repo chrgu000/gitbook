@@ -54,11 +54,11 @@
 
 Jenkins
 
-地址:https://dev.yonyouccs.com/jenkins/
+地址:[https://dev.yonyouccs.com/jenkins/](https://dev.yonyouccs.com/jenkins/)
 
 公共账号:deploy/deploy
 
------
+---
 
 wiki
 
@@ -69,4 +69,12 @@ wiki
 maven私服
 
 [http://123.103.9.205:8204/nexus/content/groups/public/](http://123.103.9.205:8204/nexus/content/groups/public/)
+
+---------------
+
+消息队列\(RabbitMQ\)控制台
+
+地址：10.3.34.4:15672
+
+公共账号:admin/admin
 
