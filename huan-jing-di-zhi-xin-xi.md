@@ -2,7 +2,7 @@
 
 ---
 
-中建云测试环境\(阿里云\)
+中建云开发环境\(阿里云\)
 
 地址:
 
@@ -17,6 +17,20 @@
 4.adminicop/ admin123qwe\(最高权限用户\)
 
 ---
+
+地址:
+
+http://test.cscec3b.com.cn
+
+账号&密码:
+
+1.zhoushebei01/a123456
+
+2.plat03/a123456\(平台用户\)
+
+4.adminicop/ admin123qwe\(最高权限用户\)
+
+--------------
 
 中建云正式环境\(中建三局\)
 
@@ -70,7 +84,7 @@ maven私服
 
 [http://123.103.9.205:8204/nexus/content/groups/public/](http://123.103.9.205:8204/nexus/content/groups/public/)
 
----------------
+---
 
 消息队列\(RabbitMQ\)控制台
 
