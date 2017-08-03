@@ -34,9 +34,13 @@
 
 中建云正式环境\(中建三局\)
 
-地址:
+地址\(旧\):
 
 [http://zjy.cscec.com.cn/cas/login?sysid=icop&verify\_code=usercenter&service=http%3A%2F%2Fzjy.cscec.com.cn%2Ficop-workbench%2Fsso%2Flogin.jsp%3Fr%3DL2ljb3Atd29ya2JlbmNoLw](qq://txfile/#)
+
+地址\(新\):
+
+http://i3b.cscec.com/icop-workbench/\#home
 
 测试账号&密码:
 
