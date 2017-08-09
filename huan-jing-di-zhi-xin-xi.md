@@ -40,7 +40,7 @@
 
 地址\(新\):
 
-http://i3b.cscec.com/icop-workbench/\#home
+[http://i3b.cscec.com/icop-workbench/\#home](http://i3b.cscec.com/icop-workbench/#home)
 
 测试账号&密码:
 
@@ -51,6 +51,8 @@ http://i3b.cscec.com/icop-workbench/\#home
 2.18600323273/123456a \(客户\(丁望\)\)
 
 3.xiaojh05/a123456 \(\(管理员\)肖建华\)
+
+4.luolaijie001/123456a
 
 ---
 
