@@ -24,9 +24,7 @@ password:S+9T,7\(ebaVZG\[Zg
 
 database:icop\_metadata
 
-
-
---------------------------------
+---
 
 测试环境信息
 
@@ -37,4 +35,16 @@ ip:10.11.251.16:3306
 username:testuser
 
 password:testuser
+
+-----------------
+
+预发布环境信息
+
+dbtype:mysql
+
+ip:124.127.206.3:16033
+
+username:testcscecuser
+
+password:0TotR9VIfxTX
 
