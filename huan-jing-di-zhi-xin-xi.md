@@ -58,6 +58,18 @@
 
 ---
 
+预发布环境
+
+地址:
+
+[http://zjy.cscec.com.cn/cas/login?sysid=icop&verify\_code=usercenter&service=http%3A%2F%2Fzjy.cscec.com.cn%2Ficop-workbench%2Fsso%2Flogin.jsp%3Fr%3DL2ljb3Atd29ya2JlbmNoLw](https://cc.yonyouccs.com)
+
+测试账号&密码:
+
+1.luolaijie001/123456a \(测试用户\)
+
+------------
+
 共享中心地址
 
 [http://dev.yonyouccs.com/icop-support-frontend/\#/](http://60.205.12.0:81/icop-support-frontend/#/)
