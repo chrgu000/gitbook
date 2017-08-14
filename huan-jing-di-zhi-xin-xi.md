@@ -62,7 +62,7 @@
 
 地址:
 
-[http://cc.yonyouccs.com](http://sc.yonyouccsc.com)
+[https://cc.yonyouccs.com](http://sc.yonyouccsc.com)
 
 测试账号&密码:
 
